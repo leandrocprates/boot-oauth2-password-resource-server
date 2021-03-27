@@ -35,6 +35,11 @@ Resposta :
 ```
 
 
+Abaixo a configuração para chamar o serviço de validação de Token no <b>Authorization Server</b> 
+
+Executar Projeto : https://github.com/leandrocprates/boot-oauth2-password-authorization
+
+
 ![Imagem Configuracao](https://github.com/leandrocprates/boot-oauth2-password-resource-server/blob/master/src/main/resources/image/configuracaoAuthorizationServer.png?raw=true)
 
 
