@@ -35,4 +35,6 @@ Resposta :
 ```
 
 
+![Imagem Configuracao](https://github.com/leandrocprates/boot-oauth2-password-resource-server/blob/master/src/main/resources/image/configuracaoAuthorizationServer.png?raw=true)
+
 
